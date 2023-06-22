@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">APKmirror</string>
+    <string name="button">The Web Browser instance has been closed you can close the app now. to reopen the Web Browser instance relaunch the app.</string>
 </resources>
